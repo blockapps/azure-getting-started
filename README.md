@@ -37,3 +37,6 @@ The single instance will provide the following (all on port 80) with username: *
 
 Once you've the instance up and running with the API's, you can also explore and run our demo-app using your STRATO blockchain instance: https://github.com/blockapps/blockapps-ba 
 
+
+## STRATO Management Dashboard
+![SMD](SMD-image.png?raw=true "SMD")
