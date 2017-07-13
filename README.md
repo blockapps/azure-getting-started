@@ -6,6 +6,10 @@ Microsoft Azure Marketplace offer - getting started with BlockApps STRATO on Azu
 
 *This individual STRATO instance (private blockchain node, self-contained and sufficient for prototyping and light POC's) also provides a RESTful web API on the HTTP port for querying your private blockchain and compiling and uploading contracts.*
 
+## Azure Offer VM Creation
+- On the VM creation screen, make sure the user-name is "strato" since the startup script is packaged for that user in the image.
+![VM-Create](azure-offer-vm-create.png?raw=true "VM")
+
 ## Steps to run STRATO services on the VM created from Azure Marketplace STRATO LTS (single-node) offer
 
 *All the setup is already done for you in the packaged VM, just run the startup script to launch the platform services.*
@@ -40,3 +44,4 @@ Once you've the instance up and running with the API's, you can also explore and
 
 ## STRATO Management Dashboard
 ![SMD](SMD-image.png?raw=true "SMD")
+
