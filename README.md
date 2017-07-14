@@ -1,7 +1,7 @@
-# azure-getting-started
+# Azure-getting-started
 Microsoft Azure Marketplace offer - getting started with BlockApps STRATO on Azure
 
-# BlockApps STRATO instance on Azure marketplace
+## BlockApps STRATO instance on Azure marketplace
 - On the Azure marketplace search for the keyword "blockapps" or "strato" or "blockchain" and you'll find our listed offer (includes Test Drive).
 
 *This individual STRATO instance (private blockchain node, self-contained and sufficient for prototyping and light POC's) also provides a RESTful web API on the HTTP port for querying your private blockchain and compiling and uploading contracts.*
@@ -18,17 +18,17 @@ Microsoft Azure Marketplace offer - getting started with BlockApps STRATO on Azu
 - Step 4: Run strato-run script (takes about 10-20secs to see all services running, in the form of docker containers): 
 ```bash
 $ ./strato-run.sh <FQDN of the machine>
-# where FQDN is the fully qualified DNS domain name of your machine
+### where FQDN is the fully qualified DNS domain name of your machine
 e.g.
 $ ./strato-run.sh strato-mp-instance.eastus.cloudapp.azure.com
 ```
 
-## Note: if the instance services do not come up within a minute, you can restart the services using:
+### Note: if the instance services do not come up within a minute, you can restart the services using:
 ```bash
 $ ./strato-run.sh -wipe 
 
 $ ./strato-run.sh <FQDN of the machine>
-# where FQDN is the fully qualified DNS domain name of your machine
+## where FQDN is the fully qualified DNS domain name of your machine
 ```
 
 The single instance will provide the following (all on port 80) with username: *admin* password: *admin*
