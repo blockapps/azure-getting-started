@@ -23,7 +23,7 @@ e.g.
 $ ./strato-run.sh strato-mp-instance.eastus.cloudapp.azure.com
 ```
 
-### Note: if the instance services do not come up within a minute, you can restart the services using:
+**Note: if the instance services do not come up within a minute, you can restart the services using:**
 ```bash
 $ ./strato-run.sh -wipe 
 
