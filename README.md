@@ -2,7 +2,7 @@
 Microsoft Azure Marketplace offer - getting started with BlockApps STRATO on Azure
 
 ## BlockApps STRATO instance on Azure marketplace
-- On the Azure marketplace search for the keyword "blockapps" or "strato" or "blockchain" and you'll find our listed offer (includes Test Drive).
+- On the Azure marketplace search for the keyword "blockapps" or "strato" or "blockchain" and you'll find our listed offers for both - the single-node and multi-node instances (includes Test Drive).
 
 *This individual STRATO instance (private blockchain node, self-contained and sufficient for prototyping and light POC's) also provides a RESTful web API on the HTTP port for querying your private blockchain and compiling and uploading contracts.*
 
