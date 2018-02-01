@@ -17,9 +17,8 @@ Configure the network and VMs for your deployment (you may use defaults):
 Set the admin password to access the dashboard:
 ![Step3](azure-offer-step3.png?raw=true "Step3")
 
-Once you've the instance up and running you can access the dashboard by visiting the VM's IP/URL in your browser.
+Once you've the instance up and running you can access the dashboard by visiting the VM's IP/URL in your browser and using the username "admin" with the password you set on the previous step.
 You can also explore and run our demo-app using your STRATO blockchain instance: https://github.com/blockapps/blockapps-ba
-
 
 
 ## STRATO Management Dashboard
