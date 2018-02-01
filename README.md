@@ -9,16 +9,23 @@ Microsoft Azure Marketplace offer - getting started with BlockApps STRATO on Azu
 ## Azure Offer VM Creation
 
 Follow the steps to configure the deployment:
+
 ![Step1](azure-offer-step1.png?raw=true "Step1")
 
 Configure the network and VMs for your deployment (you may use defaults):
+
 ![Step2](azure-offer-step2.png?raw=true "Step2")
 
 Set the admin password to access the dashboard:
+
 ![Step3](azure-offer-step3.png?raw=true "Step3")
 
+## Next steps
+
 Once you've the instance up and running you can access the dashboard by visiting the VM's IP/URL in your browser and using the username "admin" with the password you set on the previous step.
-You can also explore and run our demo-app using your STRATO blockchain instance: https://github.com/blockapps/blockapps-ba
+
+You can also explore and run our demo-app using your STRATO blockchain instance:
+[https://github.com/blockapps/blockapps-ba](https://github.com/blockapps/blockapps-ba)
 
 
 ## STRATO Management Dashboard
